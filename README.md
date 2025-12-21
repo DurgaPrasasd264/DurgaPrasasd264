@@ -78,6 +78,9 @@
   <a href="mailto:koyyanagadurgaprasad2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail" />
   </a>
+  <a href="tel:+917981426847">
+    <img src="https://img.shields.io/badge/Phone-Call%20Me-green?logo=whatsapp" />
+  </a>
 </p>
 
 ⚠️ *All projects are created for educational and defensive security research purposes only.*
