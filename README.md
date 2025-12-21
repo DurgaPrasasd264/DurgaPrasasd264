@@ -45,7 +45,7 @@
 - Correlated phishing alerts using **Splunk SIEM**
 - Generated incident reports with IOCs
 
-🔹 **⌨️ Keylogger Malware Research**
+🔹 **⌨️ keyboard-monitoring-security-lab**
 - Python-based keylogger for **malware behavior analysis**
 - Studied stealth and persistence techniques
 - Conducted research in controlled lab environments
