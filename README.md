@@ -1,79 +1,135 @@
-<h1 align="center">👋 Hi, I'm Koyya Naga Durga Prasad</h1>
-<h3 align="center">🛡️ Entry-Level Cybersecurity / SOC Analyst</h3>
+<h1 align="center">🛡️ Koyya Naga Durga Prasad</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GATE-2025%20Qualified-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Hyderabad-green?style=for-the-badge" />
+SOC Analyst | Cybersecurity Enthusiast | Threat Detection Learner
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SOC%20Analyst-Aspiring-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/GATE%202025-Qualified-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Learner-green?style=flat-square"/>
 </p>
 
 ---
 
-## 🚀 About Me
-🔐 CSE graduate passionate about **Cybersecurity & SOC Operations**  
-🧠 Hands-on experience in **threat detection, SIEM monitoring, phishing analysis**  
-🛠️ Skilled with **Splunk, Kali Linux, Wireshark, Nmap, Metasploit**  
-🎯 Actively seeking **SOC Analyst / Cybersecurity Analyst** roles  
+# 👨‍💻 Who Am I
+
+Hello! I'm **Durga Prasad**, a Computer Science graduate passionate about **cybersecurity and SOC operations**.
+
+My goal is to understand **how attackers operate and how defenders detect them**.
+
+Instead of only learning theory, I actively build **hands-on security labs**, simulate attacks, and analyze logs to understand **real SOC workflows**.
+
+Currently focused on:
+
+• Security Operations Center (SOC) Monitoring  
+• Threat Detection & Log Analysis  
+• Phishing & Incident Investigation  
+• SIEM Technologies  
 
 ---
 
-## 🧩 Core Skills
-<p>
-  <img src="https://img.shields.io/badge/SOC%20Operations-red" />
-  <img src="https://img.shields.io/badge/Incident%20Response-orange" />
-  <img src="https://img.shields.io/badge/Threat%20Detection-yellow" />
-  <img src="https://img.shields.io/badge/Vulnerability%20Assessment-green" />
-  <img src="https://img.shields.io/badge/Log%20Analysis-blue" />
+# 🔎 What I Work With
+
+### Security Operations
+SOC Monitoring • Alert Triage • Incident Investigation • Threat Detection • Log Analysis
+
+### Security Tools
+Splunk • Kali Linux • Wireshark • Nmap • Burp Suite • Nessus • VirusTotal
+
+### Security Frameworks
+MITRE ATT&CK • Cyber Kill Chain • NIST Incident Response Lifecycle
+
+---
+
+# 🧪 Cybersecurity Projects
+
+## 🛡 SOC Mini Home Lab
+A small **Security Operations Center simulation environment** built to understand how security teams monitor systems.
+
+**Technologies:** Splunk SIEM • Kali Linux • Windows 11 • Ubuntu Server
+
+What I practiced:
+
+• Collecting Windows logs using Splunk Universal Forwarder  
+• Monitoring authentication events and system activity  
+• Creating SOC dashboards in Splunk  
+• Simulating attacks from Kali Linux (network scans, brute-force attempts)  
+• Analyzing attack traces in SIEM logs  
+
+🔗 Repository  
+https://github.com/DurgaPrasasd264/SOC-Mini-Homelab
+
+---
+
+## 📧 Phishing Email Investigation
+
+A project focused on **investigating suspicious phishing emails and identifying attack indicators**.
+
+Activities performed:
+
+• Email header analysis  
+• IOC extraction  
+• Domain & URL investigation  
+• Threat intelligence lookup  
+• MITRE ATT&CK technique mapping  
+
+🔗 Repository  
+https://github.com/DurgaPrasasd264/Phishing-Email-Investigation
+
+---
+
+## ⌨️ Malware Behavior Study (Keyboard Monitoring Lab)
+
+A Python-based security lab to understand **how malicious programs capture keystrokes and how defenders detect them**.
+
+Focus areas:
+
+• Malware behavior analysis  
+• Data capture techniques  
+• Defensive detection strategies  
+
+🔗 Repository  
+https://github.com/DurgaPrasasd264/keyboard-monitoring-security-lab
+
+---
+
+# 🎓 Education
+
+Bachelor of Technology — Computer Science  
+Krishna University (2021–2025)
+
+CGPA: 8.0 / 10  
+GATE 2025 — Qualified
+
+---
+
+# 📜 Certifications
+
+CompTIA Security+ — *In Progress*
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DurgaPrasasd264&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DurgaPrasasd264&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🛠️ Tools & Technologies
-<p>
-  <img src="https://img.shields.io/badge/Splunk-black?logo=splunk" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-blue?logo=linux" />
-  <img src="https://img.shields.io/badge/Wireshark-0099cc" />
-  <img src="https://img.shields.io/badge/Nmap-darkgreen" />
-  <img src="https://img.shields.io/badge/Metasploit-purple" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-orange" />
-</p>
+# 📫 Let's Connect
+
+LinkedIn  
+https://www.linkedin.com/in/koyyanagadurgaprasad/
+
+Email  
+koyyanagadurgaprasad2003@gmail.com
 
 ---
 
-## 🧪 Featured Projects
-🔹 **📧 Phishing Email Analysis & SIEM**
-- Analyzed email headers, URLs, and attachments
-- Correlated phishing alerts using **Splunk SIEM**
-- Generated incident reports with IOCs
-
-🔹 **⌨️ keyboard-monitoring-security-lab**
-- Python-based keylogger for **malware behavior analysis**
-- Studied stealth and persistence techniques
-- Conducted research in controlled lab environments
-
-🔹 **🌐 Network Traffic Analysis**
-- Identified suspicious traffic using **Wireshark**
-- Detected anomalies in simulated SOC labs
-
----
-
-## 🎓 Certifications
-🏅 CEH – *In Progress*  
-🏅 Cybersecurity with Kali Linux – Edunet  
-🏅 Learn Python & Ethical Hacking – Udemy  
-
----
-
-## 📫 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/koyyanagadurgaprasad/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
-  </a>
-  <a href="mailto:koyyanagadurgaprasad2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail" />
-  </a>
-  <a href="tel:+917981426847">
-    <img src="https://img.shields.io/badge/Phone-Call%20Me-green?logo=whatsapp" />
-  </a>
-</p>
-
-⚠️ *All projects are created for educational and defensive security research purposes only.*
+⚠️ All projects are created for **educational and defensive cybersecurity research purposes only.**
