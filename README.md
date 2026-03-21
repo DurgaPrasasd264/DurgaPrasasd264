@@ -1,135 +1,188 @@
-<h1 align="center">🛡️ Koyya Naga Durga Prasad</h1>
+<div align="center">
 
-<p align="center">
-SOC Analyst | Cybersecurity Enthusiast | Threat Detection Learner
-</p>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ██████╗ ██╗   ██╗██████╗  ██████╗  █████╗     ██████╗ ██████╗  ║
+║  ██╔══██╗██║   ██║██╔══██╗██╔════╝ ██╔══██╗    ██╔══██╗╚════██╗ ║
+║  ██║  ██║██║   ██║██████╔╝██║  ███╗███████║    ██████╔╝ █████╔╝ ║
+║  ██║  ██║██║   ██║██╔══██╗██║   ██║██╔══██║    ██╔═══╝ ██╔═══╝  ║
+║  ██████╔╝╚██████╔╝██║  ██║╚██████╔╝██║  ██║    ██║     ███████╗ ║
+║  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝    ╚═╝     ╚══════╝ ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SOC%20Analyst-Aspiring-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/GATE%202025-Qualified-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-Learner-green?style=flat-square"/>
-</p>
+### `> KOYYA NAGA DURGA PRASAD`
+**SOC Analyst · Threat Hunter · Defender in Training**
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Monitoring+threats+%7C+Defending+systems;SOC+%7C+SIEM+%7C+Threat+Detection;GATE+2025+Qualified+%7C+CompTIA+Security%2B+%5BIn+Progress%5D;Think+like+an+attacker.+Defend+like+a+pro.)](https://git.io/typing-svg)
 
-# 👨‍💻 Who Am I
-
-Hello! I'm **Durga Prasad**, a Computer Science graduate passionate about **cybersecurity and SOC operations**.
-
-My goal is to understand **how attackers operate and how defenders detect them**.
-
-Instead of only learning theory, I actively build **hands-on security labs**, simulate attacks, and analyze logs to understand **real SOC workflows**.
-
-Currently focused on:
-
-• Security Operations Center (SOC) Monitoring  
-• Threat Detection & Log Analysis  
-• Phishing & Incident Investigation  
-• SIEM Technologies  
+</div>
 
 ---
 
-# 🔎 What I Work With
+## `> whoami`
 
-### Security Operations
-SOC Monitoring • Alert Triage • Incident Investigation • Threat Detection • Log Analysis
+```bash
+$ cat /etc/analyst-profile.conf
 
-### Security Tools
-Splunk • Kali Linux • Wireshark • Nmap • Burp Suite • Nessus • VirusTotal
+NAME        = "Koyya Naga Durga Prasad"
+ROLE        = "Aspiring SOC Analyst"
+LOCATION    = "India"
+EDUCATION   = "B.Tech CSE — Krishna University (2021–2025) | CGPA: 8.0"
+GATE        = "QUALIFIED — 2025"
+MISSION     = "Understand how attackers think. Build defenses that catch them."
+STATUS      = "Actively learning | Building labs | Chasing certs"
+```
 
-### Security Frameworks
-MITRE ATT&CK • Cyber Kill Chain • NIST Incident Response Lifecycle
-
----
-
-# 🧪 Cybersecurity Projects
-
-## 🛡 SOC Mini Home Lab
-A small **Security Operations Center simulation environment** built to understand how security teams monitor systems.
-
-**Technologies:** Splunk SIEM • Kali Linux • Windows 11 • Ubuntu Server
-
-What I practiced:
-
-• Collecting Windows logs using Splunk Universal Forwarder  
-• Monitoring authentication events and system activity  
-• Creating SOC dashboards in Splunk  
-• Simulating attacks from Kali Linux (network scans, brute-force attempts)  
-• Analyzing attack traces in SIEM logs  
-
-🔗 Repository  
-https://github.com/DurgaPrasasd264/SOC-Mini-Homelab
+> 🎯 My approach: **Don't just study theory — build labs, simulate attacks, analyze logs.**
+> Every project here reflects a real SOC workflow or defensive technique.
 
 ---
 
-## 📧 Phishing Email Investigation
+## `> cat skills.txt`
 
-A project focused on **investigating suspicious phishing emails and identifying attack indicators**.
+<div align="center">
 
-Activities performed:
+| 🛡️ SOC Operations | 🔧 Security Tools | 📐 Frameworks |
+|:-:|:-:|:-:|
+| Alert Triage | Splunk SIEM | MITRE ATT&CK |
+| Log Analysis | Wireshark | Cyber Kill Chain |
+| Incident Investigation | Kali Linux | NIST IR Lifecycle |
+| Threat Detection | Nmap · Nessus | Diamond Model |
+| Phishing Analysis | Burp Suite | OWASP Top 10 |
+| IOC Extraction | VirusTotal | STRIDE |
 
-• Email header analysis  
-• IOC extraction  
-• Domain & URL investigation  
-• Threat intelligence lookup  
-• MITRE ATT&CK technique mapping  
-
-🔗 Repository  
-https://github.com/DurgaPrasasd264/Phishing-Email-Investigation
-
----
-
-## ⌨️ Malware Behavior Study (Keyboard Monitoring Lab)
-
-A Python-based security lab to understand **how malicious programs capture keystrokes and how defenders detect them**.
-
-Focus areas:
-
-• Malware behavior analysis  
-• Data capture techniques  
-• Defensive detection strategies  
-
-🔗 Repository  
-https://github.com/DurgaPrasasd264/keyboard-monitoring-security-lab
+</div>
 
 ---
 
-# 🎓 Education
+## `> ls -la /projects`
 
-Bachelor of Technology — Computer Science  
-Krishna University (2021–2025)
+### 🔴 `[01]` — SOC Mini Home Lab
+> *Simulating a real Security Operations Center from scratch*
 
-CGPA: 8.0 / 10  
-GATE 2025 — Qualified
+```
+📁 soc-mini-homelab/
+├── 🖥️  Splunk SIEM         → Ingestion, parsing, dashboards
+├── 🐧  Kali Linux           → Attack simulation (scans, brute-force)
+├── 🪟  Windows 11           → Log source + Splunk Universal Forwarder
+├── 🌐  Ubuntu Server        → Additional log endpoint
+└── 📊  SOC Dashboard        → Real-time alert monitoring
+```
 
----
+**What I built:**
+- ✅ Windows event log collection via Splunk Universal Forwarder
+- ✅ Authentication monitoring & anomaly detection rules
+- ✅ Live attack simulation → trace analysis pipeline
+- ✅ Custom SOC dashboards with alert correlation
 
-# 📜 Certifications
-
-CompTIA Security+ — *In Progress*
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DurgaPrasasd264&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DurgaPrasasd264&theme=tokyonight"/>
-</p>
+[![View Project](https://img.shields.io/badge/🔗_View_Project-SOC_Homelab-00ff41?style=for-the-badge&labelColor=0d1117)](https://github.com/DurgaPrasasd264/SOC-Mini-Homelab)
 
 ---
 
-# 📫 Let's Connect
+### 🟡 `[02]` — Phishing Email Investigation
+> *Full phishing analysis workflow — from raw email to threat report*
 
-LinkedIn  
-https://www.linkedin.com/in/koyyanagadurgaprasad/
+```
+📁 phishing-investigation/
+├── 📧  Header Analysis      → Sender spoofing, relay hops, X-headers
+├── 🔍  IOC Extraction       → IPs, URLs, hashes, domains
+├── 🌐  Domain Intelligence  → WHOIS, VirusTotal, URLScan
+└── 🗺️  ATT&CK Mapping       → T1566.001 — Spearphishing Attachment
+```
 
-Email  
-koyyanagadurgaprasad2003@gmail.com
+**Techniques covered:**
+- ✅ Email header forensics & spoofing detection
+- ✅ URL defanging & sandbox detonation workflow
+- ✅ Threat intel correlation (VirusTotal / AbuseIPDB)
+- ✅ Full investigation report with ATT&CK technique mapping
+
+[![View Project](https://img.shields.io/badge/🔗_View_Project-Phishing_Investigation-ffaa00?style=for-the-badge&labelColor=0d1117)](https://github.com/DurgaPrasasd264/Phishing-Email-Investigation)
 
 ---
 
-⚠️ All projects are created for **educational and defensive cybersecurity research purposes only.**
+### 🟠 `[03]` — Malware Behavior Study (Keylogger Lab)
+> *Understand malware from the inside out — to defend against it*
+
+```
+📁 keyboard-monitoring-lab/
+├── 🐍  Python Keylogger     → Behavior simulation (educational)
+├── 🔬  Behavior Analysis    → Data capture, exfiltration simulation
+└── 🛡️  Detection Strategy   → EDR indicators, process monitoring
+```
+
+**What I learned:**
+- ✅ How keyloggers operate at the OS level
+- ✅ Defensive indicators: process names, registry keys, network calls
+- ✅ Detection logic applicable to SIEM/EDR environments
+
+[![View Project](https://img.shields.io/badge/🔗_View_Project-Malware_Lab-ff6600?style=for-the-badge&labelColor=0d1117)](https://github.com/DurgaPrasasd264/keyboard-monitoring-security-lab)
+
+---
+
+## `> cat certifications.log`
+
+```
+[✅ COMPLETED ]  GATE 2025 — Computer Science & IT
+[🔄 IN PROGRESS]  CompTIA Security+ (SY0-701)
+[🎯 NEXT TARGET]  CompTIA CySA+ / Blue Team Labs / TryHackMe SOC Level 1
+```
+
+---
+
+## `> ./stats.sh`
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=DurgaPrasasd264&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&hide_border=false"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaPrasasd264&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DurgaPrasasd264&theme=terminal&background=0D1117&border=00FF41&ring=00FF41&fire=FF6600&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=AAAAAA&dates=555555)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `> ping me`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KoyyaNagaDurgaPrasad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/koyyanagadurgaprasad/)
+[![Email](https://img.shields.io/badge/Email-koyyanagadurgaprasad2003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:koyyanagadurgaprasad2003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-DurgaPrasasd264-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/DurgaPrasasd264)
+
+</div>
+
+---
+
+## `> tail -f /var/log/activity.log`
+
+```
+[2025-xx-xx]  🔵  Building: SOC homelab with Elastic SIEM (upcoming)
+[2025-xx-xx]  🟢  Practicing: TryHackMe SOC Level 1 path
+[2025-xx-xx]  🟡  Studying: CompTIA Security+ domains
+[2025-xx-xx]  🔴  Analyzing: New phishing campaign samples
+```
+
+---
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════╗
+║  "The best defense is knowing the offense" ║
+║                                            ║
+║   Every log tells a story.                 ║
+║   I'm learning to read them.               ║
+╚════════════════════════════════════════════╝
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=DurgaPrasasd264&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
+
+⚠️ *All projects are for educational and defensive cybersecurity research purposes only.*
+
+</div>
