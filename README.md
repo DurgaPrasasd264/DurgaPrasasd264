@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2200&pause=700&color=00FF41&multiline=true&width=700&height=180&lines=SOC+-+Environment+Initialized;Monitoring+300%2B+Security+Alerts+Daily;Connecting+to+Splunk+Enterprise+Security...;%24+analyze+--ioc+--splunk+--jira;Threat+Detected...;Investigating...;Escalated...;Mitigated...;System+Secure+%E2%9C%94)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2200&pause=700&color=00FF41&multiline=true&width=700&height=180&lines=SOC+-+Environment+Initialized;Monitoring+300%2B+Security+Alerts;Connecting+to+Splunk+Enterprise+Security...;%24+analyze+--ioc+--splunk+--jira;Threat+Detected...;Investigating...;Escalated...;Mitigated...;System+Secure+%E2%9C%94)](https://git.io/typing-svg)
 
 &nbsp;
 
